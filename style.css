@@ -1,0 +1,22 @@
+#fundo{
+    background: rgb(23,80,233);
+background: linear-gradient(90deg, rgba(23,80,233,1) 28%, rgba(12,254,96,1) 50%, rgba(0,255,244,1) 72%);
+font-size: 16px;
+text-align: center;
+}
+.titulo{
+    font-family: 'Abril Fatface', cursive;
+
+}
+section{
+margin: 50px;
+}
+#rodape {
+    text-align: justify;
+    padding: 20px;
+
+}
+    #rodape a{
+        text-decoration: none;
+        color: black;
+    }
